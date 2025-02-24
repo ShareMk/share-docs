@@ -13,5 +13,3 @@ Contents
 
    Home <self>
    network/index
-   usage
-   api
