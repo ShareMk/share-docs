@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
+project = "Share's Docs"
+copyright = "2025, Read the Docs core team"
 author = "Read the Docs core team"
 
 
