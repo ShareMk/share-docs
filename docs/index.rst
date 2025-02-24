@@ -20,5 +20,6 @@ Contents
 
 .. toctree::
 
+   network/index
    usage
    api
