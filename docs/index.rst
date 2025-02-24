@@ -22,6 +22,7 @@ Contents
    :maxdepth: 2
    :glob:
 
+   Home
    network/index
    usage
    api
