@@ -22,7 +22,7 @@ Contents
    :maxdepth: 2
    :glob:
 
-   Home
+   Home <self>
    network/index
    usage
    api
