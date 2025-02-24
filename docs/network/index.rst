@@ -1,3 +1,4 @@
+#share
 .. toctree::
     :maxdepth: 3
 
