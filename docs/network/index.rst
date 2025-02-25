@@ -1,6 +1,6 @@
 network
 ------
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 4
 
     Basics
