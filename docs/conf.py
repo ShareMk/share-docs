@@ -70,6 +70,4 @@ html_context = {
     "github_version": "main",
     "conf_py_path": "/docs/",
     "show_source": True,
-    "last_updated": "2025-02-25",  # 最后更新时间
-    "custom_var": "This is a custom variable",  # 自定义变量
 }
