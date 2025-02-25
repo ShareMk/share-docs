@@ -61,3 +61,15 @@ html_theme = "sphinx_rtd_theme"
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
+
+# Add custom context variables for HTML templates
+html_context = {
+    "display_github": True,  # 是否显示 GitHub 链接
+    "github_user": "your-github-username",  # GitHub 用户名
+    "github_repo": "your-repo-name",  # GitHub 仓库名
+    "github_version": "main",  # 使用的分支
+    "conf_py_path": "/source/",  # conf.py 的路径
+    "show_source": True,  # 是否显示源代码链接
+    "last_updated": "2025-02-25",  # 最后更新时间
+    "custom_var": "This is a custom variable",  # 自定义变量
+}
