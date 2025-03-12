@@ -11,6 +11,6 @@ Contents
    :maxdepth: 1
    :glob:
 
-   Home <self>
+   #Home <self>
    network/index
    linux/index
