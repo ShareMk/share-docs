@@ -1,4 +1,4 @@
 linux
 ------
 .. toctree::
-All aboot Arch
+    Arch
