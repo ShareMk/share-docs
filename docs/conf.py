@@ -31,6 +31,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
+    "myst_parser"
 ]
 
 intersphinx_mapping = {
@@ -49,6 +50,15 @@ epub_show_urls = "footnote"
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+
+# -- Options for the Sphinx  -------------------------------------------------
+# Configuration file for the Sphinx documentation builder.
+# The suffix(es) of source filenames.
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
 
 # -- Options for HTML output -------------------------------------------------
 
