@@ -10,6 +10,6 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   #Home <self>
+   Home <self>
    network/index
    linux/index
