@@ -2,4 +2,4 @@ linux
 ------
 .. toctree::
 
-    Arch
+    Arch.md
