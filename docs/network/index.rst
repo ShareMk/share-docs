@@ -2,4 +2,5 @@ network
 ------
 .. toctree::
 
-    Basics.md
+    Basics.rst
+.. autofunction:: io.open
