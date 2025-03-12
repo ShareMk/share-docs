@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Share's Docs"
-copyright = "%Y"
+copyright = "2025,ShareMk"
 author = "ShareMk"
 
 
