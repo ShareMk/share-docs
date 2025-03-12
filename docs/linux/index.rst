@@ -1,1 +1,3 @@
-Arch
+.. toctree::
+
+  Arch
