@@ -13,3 +13,4 @@ Contents
 
    Home <self>
    network/index
+   linux/index
