@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = "Share's Docs"
-copyright = "2025, Read the Docs core team"
-author = "Read the Docs core team"
+copyright = "%Y"
+author = "ShareMk"
 
 
 # -- General configuration ---------------------------------------------------
