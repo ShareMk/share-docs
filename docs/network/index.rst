@@ -2,4 +2,4 @@ network
 ------
 .. toctree::
 
-    Basics
+    Basics.md
