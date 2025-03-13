@@ -4,6 +4,6 @@ linux
    :maxdepth: 2
    :numbered:
  
-    Arch.md
+    Arch
     test.txt
     test1.rst
