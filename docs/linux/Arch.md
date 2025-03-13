@@ -1,5 +1,5 @@
 # Arch
 
 安装笔记：  
-- 自动安装：
-  `archinstall`
+自动安装：  
+..`archinstall`
