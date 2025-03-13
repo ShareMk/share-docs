@@ -1,3 +1,4 @@
+.. _linux:
 linux
 ------
 .. toctree::
