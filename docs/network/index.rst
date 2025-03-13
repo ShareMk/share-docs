@@ -1,5 +1,0 @@
-network
-------
-.. toctree::
-
-    Basics.rst
