@@ -1,6 +1,7 @@
-.. _linux:
-linux
-------
+.. _openstack_index:
+
+OpenStack Note
+============================
 .. toctree::
 
     Arch.md
