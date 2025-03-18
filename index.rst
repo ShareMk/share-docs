@@ -6,4 +6,3 @@ Welcome to My Docs!
    :caption: Contents:
 
    docs/getting_started
-   docs/api
