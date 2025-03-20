@@ -6,4 +6,5 @@ Welcome to My Docs!
    :maxdepth: 3
 
 .. :caption: Contents:
+
    docs/getting_started
