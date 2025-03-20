@@ -10,6 +10,3 @@ authors = [{name = "ShareMk", email = "ShareMk@share-docs"}]  # 明确使用支�
 
 version = "0.1.0"  # 明确指定版本
 description = "Documentation project to record learning and problem solving."  # 明确指定描述
-
-[tool.flit.metadata]
-module = "share_docs"
