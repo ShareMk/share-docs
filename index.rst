@@ -4,7 +4,6 @@ Welcome to My Docs!
 .. toctree::
    :numbered:
    :maxdepth: 3
-
-.. :caption: Contents:
+   ==:caption: Contents:==
 
    docs/getting_started
