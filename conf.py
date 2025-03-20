@@ -5,9 +5,9 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'My Project'
-copyright = '2023, Your Name'
-author = 'Your Name'
+project = 'Share docs'
+copyright = '2025, ShareMk'
+author = 'ShareMk'
 
 # The short X.Y version
 version = '1.0'
