@@ -114,5 +114,5 @@ html_context = {
     "github_user": "ShareMk",  # GitHub 用户名
     "github_repo": "share-docs",  # 仓库名称
     "github_version": "main",  # 分支名称，例如 main 或 master
-    "conf_py_path": "./",  # Sphinx 配置文件的路径（相对于仓库根目录）
+    "conf_py_path": "/",  # Sphinx 配置文件的路径（相对于仓库根目录）
 }
