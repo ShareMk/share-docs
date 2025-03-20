@@ -2,8 +2,8 @@ Welcome to My Docs!
 ===================
 
 .. toctree::
-   :maxdepth: 2
    :numbered:
+   :maxdepth: 3
    :caption: Contents:
 
    docs/getting_started
