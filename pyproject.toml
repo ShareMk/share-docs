@@ -3,7 +3,7 @@ requires = ["flit_core >=3.9,<4"]  # 明确使用支持 Python 3.12 的版本，
 build-backend = "flit_core.buildapi"  # 使用支持 flit_core构建项目
 
 [project]
-name = "share-docs"  # 项目名称
+name = "lumache"  # 项目名称
 authors = [{name = "ShareMk", email = "ShareMk@share-docs"}]  # 明确使用支持 Python 3.12 的版本
 
 #dynamic = ["version", "description"]
