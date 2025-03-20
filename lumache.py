@@ -1,12 +1,12 @@
 """
-Share-docs - Python library for cooks and food lovers.
+Lumache - Python library for cooks and food lovers.
 
 This is a Python docstring, we can use reStructuredText syntax here!
 
 .. code-block:: python
 
-    # Import share-docs
-    import share-docs
+    # Import lumache
+    import lumache
 
     # Call its only function
     get_random_ingredients(kind=["cheeses"])
