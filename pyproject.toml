@@ -1,5 +1,5 @@
 [build-system]
-requires = ["flit_core >=3.9,<4"]  # 明确使用支持 Python 3.12 的版本，的flit_core版本
+requires = ["flit_core >=3.9"]  # 明确使用支持 Python 3.12 的版本，的flit_core版本
 build-backend = "flit_core.buildapi"  # 使用支持 flit_core构建项目
 
 [project]
