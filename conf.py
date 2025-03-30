@@ -26,6 +26,12 @@ extensions = [
 # myst_parser支持 Markdown 中一些扩展语法
 
 myst_dmath_enable_space = True  # 或者 False，根据你的需要
+myst_enable_extensions = [
+    "mark",
+    "deflist", # 定义列表
+    "dollarmath", # 数学公式
+    "amsmath", # latex数学公式
+]
 
 # 支持的文件扩展名
 source_suffix = {
