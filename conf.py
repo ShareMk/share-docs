@@ -26,7 +26,7 @@ extensions = [
 # myst_parser支持 Markdown 中一些扩展语法
 
 myst_enable_extensions = [
-    "myst_dmath_allow_labels",
+    "dmath_allow_space",
 ]
 
 # 支持的文件扩展名
