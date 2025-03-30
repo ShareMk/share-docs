@@ -10,7 +10,7 @@ copyright = '2025, ShareMk'
 author = 'ShareMk'
 
 # The short X.Y version
-#version = '1.0'
+# version = '1.0'
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
@@ -23,13 +23,11 @@ extensions = [
     'myst_parser',
 ]
 
-# myst_parser支持 Markdown 中一些扩展语法
-
+# myst_parser 支持 Markdown 中一些扩展语法
 myst_enable_extensions = [
-    "mark",
-    "deflist", # 定义列表
-    "dollarmath", # 数学公式
-    "amsmath", # latex数学公式
+    "deflist",  # 定义列表
+    "dollarmath",  # 数学公式
+    "amsmath",  # LaTeX 数学公式
 ]
 
 # 支持的文件扩展名
@@ -39,7 +37,6 @@ source_suffix = {
 }
 
 templates_path = ['_templates']
-#source_suffix = '.rst'
 master_doc = 'index'
 language = 'en'
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -47,10 +44,7 @@ pygments_style = 'sphinx'
 
 # -- Options for HTML output -------------------------------------------------
 
-#html_theme = 'alabaster'
-#html_static_path = ['_static']
 html_theme = 'sphinx_rtd_theme'
-#html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_static_path = ['docs/_static']
 
 # -- Options for HTMLHelp output ---------------------------------------------
@@ -91,30 +85,20 @@ texinfo_documents = [
 epub_title = project
 epub_exclude_files = ['search.html']
 
-
 # 启用章节编号
 numfig = True
 numfig_format = {
-    'section': 'Section %s',
     'figure': 'Figure %s',
     'table': 'Table %s',
     'code-block': 'Listing %s',
 }
 
 # 自动为章节编号
-latex_elements = {
-    'papersize': 'a4paper',
-    'pointsize': '10pt',
-    'preamble': r'''
-        \usepackage{charter}
-        \usepackage[defaultsans]{lato}
-        \usepackage{inconsolata}
-    ''',
-}
-
-# 启用章节编号
 html_theme_options = {
-    'number_sections': True,
+    'navigation_depth': 4,  # 控制侧边栏的深度
+    'collapse_navigation': False,  # 是否折叠侧边栏
+    'sticky_navigation': True,  # 是否固定导航栏
+    'number_sections': True,  # 启用章节编号
 }
 
 # GitHub 仓库信息
