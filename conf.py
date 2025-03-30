@@ -20,7 +20,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
     'sphinx.ext.napoleon',
-    'myst_parser',
 ]
 
 # myst_parser支持 Markdown 中一些扩展语法
