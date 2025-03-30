@@ -25,6 +25,10 @@ extensions = [
 
 # myst_parser支持 Markdown 中一些扩展语法
 
+myst_enable_extensions = [
+    "mark",
+]
+
 # 支持的文件扩展名
 source_suffix = {
     '.rst': 'restructuredtext',
