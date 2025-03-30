@@ -5,6 +5,5 @@ Welcome to My Docs!
    :numbered:
    :maxdepth: 3
 
-   docs/getting_started
-   docs/数据通信基础
-   docs/1.rst
+   docs/getting_started.md
+   docs/数据通信基础.md
