@@ -25,9 +25,7 @@ extensions = [
 
 # myst_parser支持 Markdown 中一些扩展语法
 
-myst_enable_extensions = [
-    "dmath_allow_space",
-]
+myst_dmath_enable_space = True  # 或者 False，根据你的需要
 
 # 支持的文件扩展名
 source_suffix = {
