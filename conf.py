@@ -25,7 +25,6 @@ extensions = [
 
 # myst_parser支持 Markdown 中一些扩展语法
 
-myst_dmath_enable_space = True  # 或者 False，根据你的需要
 myst_enable_extensions = [
     "mark",
     "deflist", # 定义列表
