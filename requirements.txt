@@ -52,5 +52,3 @@ sphinx_rtd_theme==2.0.0
     # via sphinx
 myst_parser==1.0.0
     #via sphinx
-myst-extensions
-    #via myst_parser
